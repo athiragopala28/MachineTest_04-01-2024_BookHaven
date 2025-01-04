@@ -30,4 +30,4 @@ The application also includes a homepage for easy navigation.
 
 
 ##Clone the Repository:
-git clone https://github.com/athiragopala28/MachineTest_04-12-2024_BookHaven.git
+git clone https://github.com/athiragopala28/MachineTest_04-01-2024_BookHaven
