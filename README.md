@@ -1,5 +1,5 @@
-Library Management System
-
+Online Library Management System
+Athira Gopalakrishnan : Java Full Stack Developer
 
 ##Description:
 The Library Management System is a simple and efficient web application for managing library records. It allows users to perform CRUD (Create, Read, Update, Delete) operations on book records.
