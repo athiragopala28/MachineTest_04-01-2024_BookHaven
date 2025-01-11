@@ -1,6 +1,6 @@
-Online Library Management System
+Athira Gopalakrishnan : Java 5
 
-Athira Gopalakrishnan : Java Full Stack Developer
+Online Library Management System
 
 ##Description:
 The Library Management System is a simple and efficient web application for managing library records. It allows users to perform CRUD (Create, Read, Update, Delete) operations on book records.
